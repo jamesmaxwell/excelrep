@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Aspose.Cells</id>
+    <version>7.5.0</version>
+    <title>Aspose.Cells for .NET</title>
+    <authors>Aspose</authors>
+    <owners>Aspose</owners>
+    <licenseUrl>http://www.aspose.com/corporate/purchase/end-user-license-agreement.aspx</licenseUrl>
+    <projectUrl>http://www.aspose.com/categories/.net-components/aspose.cells-for-.net/default.aspx</projectUrl>
+    <iconUrl>http://www.aspose.com/images/products/dotnet/Aspose.Cells_128x128.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Aspose.Cells for .NET is a spreadsheet programming component that allows software developers to manipulate and convert spreadsheet files from within their own applications. A combination of APIs and GUI controls, Aspose.Cells for .NET speeds up Microsoft Excel programming and conversion.</description>
+    <summary>Aspose.Cells for .Net is a class library for Excel document processing</summary>
+    <releaseNotes>New Features
+41726 - Insert a picture based on cell reference (MS Excel 2010)
+ 
+Enhancements
+41601 - Shading Style Fill Effect for cells is not working
+41687 - Open CSV file with value longer than 32K in a cell
+41684 - InsertRow / InsertRows does not copy Table/List Object formulas accordingly
+41629 - "Do not compress images in file" setting is changed
+41608 - Throw “CellsException” when a file contains MS Graph charts
+ 
+Performance
+41664 - Formulas calculation is slow
+ 
+Exceptions
+41703 - Exception: "Index was out of range..." when refreshing PivotTable
+41666 - Exception: “Index was outside the bounds of the array” while saving to HTML
+41705 - Exception: "The custom number format string is too long." while opening the file
+41670 - Exception: “Index was outside the bounds of the array”
+ 
+Bugs
+41576 - Image Contrast not preserved when rendering image from MS Excel
+41748 - Workbook saved as XLSX corrupted
+41728 - Month not ordered the same as an XLSX copy in the PDF
+41727 - Problem with duplicated column in XLSX to HTML conversion
+41719 - Pivot filter text copied to cells below it
+41717 - Losing Value correction on PivotTable refresh
+41710 - One character becomes a question mark
+41677 - Pivot Table’s CalculatedField SUM not working for 10 digits -ve number on Windows XP
+41669 - Removing the “CustomUI14.xml” file from the Excel workbook
+41668 - IsAutoFormat setting of PivotTable affecting the hidden columns
+41663 - MS Excel warning on opening the saved file
+41651 - Problem with custom date formatting in XLSX to HTML conversion
+41643 - Dates in Pivot Table not formatted correctly
+41620 - PivotTable headers are wrong in the converted PDF file
+41614 - PDF not showing the filtered items
+41604 - Total text of PivotTable is rendered at the bottom
+41696 - The very top line of the chart is 'cutoff'
+41695 - Chart Legend is in the wrong position
+41691 - Chart is moved or resized after re-saving the file
+41683 - Converting an XLS file to PDF, the Charts and Images don't update accordingly
+41681 - The name of the red line in the chart drops off partially
+41680 - Chart get resized when exported as Ole Frame
+41632 - Chart Legend can't be aligned center
+41745 - Certain Copy/Paste features are broken
+41736 - The saved XLT document still has the error if we save the document to streams
+41731 - Opening and saving file generates the corrupt file
+41729 - Sorting setting is lost after re-saving and refreshing the filters
+41713 - Workbook.CalculateFormula gives “#VALUE!” error
+41709 - Opening an XLT file by right clicking on it shows error
+41706 - Border breaks after inserting row
+41689 - Worksheet.Copy method Issue
+41672 - Aspose.Cells interfering with original VBA codes in the spreadsheet
+41659 - DeleteBlankRows() method deletes image objects
+41648 - Range does not extend its area accordingly
+41645 - Moving worksheet invalidates Named Ranges
+41642 - Problem with Subtotal (Smart Markers)
+41635 - File (with Smart Art) saved with Aspose.Cells is not opening with Open XML SDK
+41634 - Creates unreadable content in the XLSXM files
+41633 - Add-ins formula issue
+41624 - Unable to process document through Aspose.Cells
+41611 - OpenOffice Document Spreadsheets issue while opening the files
+41609 - Shapes getting copied incorrectly when using Worksheet.Cells.CopyRows</releaseNotes>
+    <copyright>© Aspose 2002-2013. All Rights Reserved.</copyright>
+    <tags>Excel Spreadsheet Aspose.Cells XLS XLSX TXT ODS</tags>
+    <references>
+      <reference file="Aspose.Cells.dll" />
+    </references>
+  </metadata>
+</package>

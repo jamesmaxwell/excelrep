@@ -1,0 +1,7 @@
+E:\example\ExcelReplace\ExcelReplace\ExcelReplace.exe.config
+E:\example\ExcelReplace\ExcelReplace\obj\x86\Debug\ExcelReplace.csprojResolveAssemblyReference.cache
+E:\example\ExcelReplace\ExcelReplace\obj\x86\Debug\ExcelReplace.exe
+E:\example\ExcelReplace\ExcelReplace\obj\x86\Debug\ExcelReplace.pdb
+E:\example\ExcelReplace\ExcelReplace\ExcelReplace.exe
+E:\example\ExcelReplace\ExcelReplace\ExcelReplace.pdb
+E:\example\ExcelReplace\ExcelReplace\Aspose.Cells.dll
